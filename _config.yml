@@ -51,6 +51,10 @@ author:
 menu:
   - title:             Portfolio
     url:               /about/
+  - title:             Project
+    url:               /projects/  
+  - title:             blog
+    url:               /blog/  
   - title:             Example
     url:               /example/
   - title:             Documentation

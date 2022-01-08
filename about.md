@@ -1,21 +1,85 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/blog/yehs_namecard_logo.png
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  이윤서의 포트폴리오입니다.
 hide_description: true
 redirect_from:
   - /download/
 ---
 
-# About
+# Portfolio
 
-<!--author-->
+![Screenshot](assets/img/me2.jpg){:.center-image width="300" height="300" loading="lazy"}
+강아지 이름은 '단지' 이다. 이쁜짓 할 땐 꿀단지, 미운짓 할 땐 애물단지
+{:.figcaption}
+# Lee, Younseo
+**오늘보다 더 나은 내일을 추구하는 공대생, 이윤서입니다.** 기계공학부 재학하며 로봇제어, ROS, 머신러닝등에 관심이 있습니다. 돈도 많이 벌고 싶고, 공부도 많이 하고 싶습니다. 단순 개발자는 하고 싶지 않습니다. 개발하는 사업가가 되고 싶습니다. 많은 경험을 하고 싶습니다. 50살에는 산이 올려다 보이는 목공까페를 운영하며 커피 한 잔하며 목공을 가르치고 싶습니다.  
+ENFP 와 ENTP 그 사이 어딘가 입니다. 
 
-## Hydejack
+## Personal Info
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+**E-mail** &nbsp;&nbsp;&nbsp; leejimmy0407@gmail.com  
+**거주지** &nbsp;&nbsp;&nbsp; 서울시 강동구
+
+## 2022
+
+- YEHS 운영진 기획 1부 차장
+- 카투사 전역
+    - 42A
+    - 그 뭐시기 평택시민 뉴스 링크
+    - 시니어 카투사 응애
+    - 모범카투사
+    - 패스 만드는 거
+
+## 2021
+
+- 군 복무
+
+## 2020
+
+- 삼성드림클래스 겨울방학 한양대캠프
+- 방구석 메이커톤 금상
+- 창의적 종합설계경진대회 2등
+- YEHS 메이커톤 1등
+- 카투사 입대
+
+## 2019
+
+- 성균관대학교 공학계열 입학
+- SIOR
+    - 사이어 소개
+    - 전시회 자전거
+- YEHS 입단
+    - YEHS 소개
+
+## 2018
+
+- 과학탐구보고서대회(전향력을 이요한 양궁 뭐시기)
+    - 국가대표 코치 연락
+- 물리 논술대회 금상?
+
+## 2017
+
+- 현대청운고 GLS 프로그램 2등
+    - 미국 캘리포니아 공학 기행 계획서
+    - 지도
+    - 사진
+    - 느낀점
+    - 책 발행(링크)
+- 과학 탐구보고서 대회 은상(컴퓨터 팬 속도, 온도, 소음 그런거 상관관계)
+- 전국 과학 전람회 입상(돌림힘을 이용한 건물 풍진동 감쇠 장치)
+- 물리 논술 대회 은상
+
+## 2016
+
+- 대현중학교 졸업
+- 현대청운고 입학
+- 과학 탐구 보고서대회 동상
+- 35대 부회장
+
+
+으아
 {:.lead}
 
 1. this list will be replaced by the toc

@@ -9,8 +9,14 @@ redirect_from:
 ---
 
 # Portfolio
-
+![Screenshot](assets/img/me2.jpg){:.center-image width="300" height="300" loading="lazy"}
+ㅁㄴㅇㄹ
 ![Screenshot](/assets/img/me2.jpg){:.center-image width="300" height="300" loading="lazy"}
+ㅁㅇㄴㄹ
+![Screenshot](./assets/img/me2.jpg){:.center-image width="300" height="300" loading="lazy"}
+ㅁㅇㄴㄹ
+![Screenshot](../assets/img/me2.jpg){:.center-image width="300" height="300" loading="lazy"}
+ㅁㅇㄴㄹ
 강아지 이름은 '단지' 이다. 이쁜짓 할 땐 꿀단지, 미운짓 할 땐 애물단지
 {:.figcaption}
 # Lee, Younseo

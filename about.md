@@ -13,7 +13,7 @@ redirect_from:
 강아지 이름은 '단지' 이다. 이쁜짓 할 땐 꿀단지, 미운짓 할 땐 애물단지
 {:.figcaption}
 # Lee, Younseo
-**오늘보다 더 나은 내일을 추구하는 공대생, 이윤서입니다.** 기계공학부 재학하며 로봇제어, ROS, 머신러닝등에 관심이 있습니다. 돈도 많이 벌고 싶고, 공부도 많이 하고 싶습니다. 단순 개발자는 하고 싶지 않습니다. 개발하는 사업가가 되고 싶습니다. 많은 경험을 하고 싶습니다. 50살에는 산이 올려다 보이는 목공까페를 운영하며 커피 한 잔하며 목공을 가르치고 싶습니다.  
+**오늘보다 더 나은 내일을 추구하는 공대생, 이윤서입니다.** 기계공학부 재학하며 로봇제어, ROS, 머신러닝등에 관심이 있습니다. 돈도 많이 벌고 싶고, 공부도 많이 하고 싶습니다. 단순 개발자는 하고 싶지 않습니다. 개발하는 사업가가 되고 싶습니다. 많은 경험을 하고 싶습니다. 60살에는 산이 올려다 보이는 목공까페를 운영하며 커피 한 잔하며 목공을 가르치고 싶습니다.  
 ENFP 와 ENTP 그 사이 어딘가 입니다.
 
 ## Personal Info
@@ -40,34 +40,34 @@ ENFP 와 ENTP 그 사이 어딘가 입니다.
 ## 2020
 --------
 ### 창의적 종합 설계 경진대회 | 동상
-*[Pill so Good](https://www.youtube.com/watch?v=bX4BdqInkAc); 비전인식 기술을 이용한 알약 분류기*
+*[Pill so Good](https://my-points.tistory.com/51){:target="_blank"}; 비전인식 기술을 이용한 알약 분류기*
 > 주최: 성균관대학교 
   기구 설계 및 제작(Invetor, 3D 프린팅), 프로그래밍(Arduino) 담당  
 
 ### YEHS 메이커톤 | 대상
-*[서부외이](https://drive.google.com/file/d/1g9aa1DBGmY-LPObsODW5J87Jr1_Oehde/view?usp=sharing); 저시력자를 위한 지하철 경로안내 시스템*
+*[서부외이](https://drive.google.com/file/d/1g9aa1DBGmY-LPObsODW5J87Jr1_Oehde/view?usp=sharing){:target="_blank"}; 저시력자를 위한 지하철 경로안내 시스템*
 >  주회: 한국공학한림원, YEHS  
   기구 및 회로 제작 및 자료 제작 담당
 
 ### 제 1회 방구석 메이커톤 | 우수상
-*[Scoring Cube](https://my-points.tistory.com/3?category=863947); 다양한 행동을 놀이로 만드는 스코어링 큐브*
->  주최: 고려대학교, 중소기업벤처부  
+*[Scoring Cube](https://my-points.tistory.com/3?category=863947){:target="_blank"}; 다양한 행동을 놀이로 만드는 스코어링 큐브*
+>  주최: 고려대학교, 중소기업벤처부
   회로 설계 및 프로그래밍(MicroBit) 담당
   
 
 ### 삼성드림클래스 겨울방학 한양대캠프
 >  중학교 1학년 수학 담임  
-  [Enabling 180](https://www.youtube.com/watch?v=TxxlFwO2kTw), [창의나눔](https://drive.google.com/file/d/149X3lJrD5e0b9P8lB6EFKKhSfxOq90jL/view?usp=sharing)  
+  [Enabling 180](https://www.youtube.com/watch?v=TxxlFwO2kTw){:target="_blank"}, [창의나눔](https://drive.google.com/file/d/149X3lJrD5e0b9P8lB6EFKKhSfxOq90jL/view?usp=sharing)  
 
 
 ## 2019 
 --------
-### SIOR; 성균관대학교 로봇 연구회 입회
-*[Auto Balacing Bike](https://github.com/Corinyi/Auto_Balancing_Bike)*
+### [SIOR](http://skku-sior.ddns.net/){:target="_blank"} ; 성균관대학교 로봇 연구회 입회
+*[Auto Balacing Bike](https://github.com/Corinyi/Auto_Balancing_Bike){:target="_blank"}; 2019 전시회*
 > PID제어 이용  
   1인 프로젝트 - 설계(Invertor), 제작(3D 프린팅), 프로그래밍(Arduino)
-  
-### YEHS 입회
+
+### [YEHS](http://www.yehs.or.kr/main/main.php){:target="_blank"} 입회
 > NAEK 9월 포럼
 
 ### 성균관대학교 입학
